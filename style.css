@@ -62,7 +62,7 @@ body {
     box-shadow: 0 0.4em 0.1em 0.019em rgb(138, 136, 136);
 }
   
-.btn span:hover {
+.btn span:active {
     transition: all 0.5s;
     transform: translate(0, 0.4em);
     box-shadow: 0 0 0 0 #000000;
